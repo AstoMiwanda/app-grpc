@@ -1,8 +1,6 @@
 import 'package:app_grpc/grpc_demo.dart';
 import 'package:grpc/grpc.dart';
 
-import 'server.dart';
-
 void main() async {
   final channel = ClientChannel(
       'localhost',

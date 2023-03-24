@@ -4,3 +4,7 @@ export 'src/generated/album.pbgrpc.dart';
 export 'src/generated/album.pbenum.dart';
 export 'src/generated/album.pbjson.dart';
 export 'src/generated/album.pbserver.dart';
+export 'src/generated/student.pb.dart';
+export 'src/generated/student.pbenum.dart';
+export 'src/generated/student.pbgrpc.dart';
+export 'src/generated/student.pbjson.dart';
